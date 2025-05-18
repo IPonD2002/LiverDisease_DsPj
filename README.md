@@ -1,5 +1,4 @@
 ﻿# Liver Disease Project
-# Liver Disease Project
 
 ## Overview
 This project focuses on analyzing liver disease data to [brief description of your project goals].
